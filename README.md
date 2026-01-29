@@ -9,7 +9,7 @@ This project creates a **multi-cloud Kubernetes cluster using kubeadm** by placi
 
 ## The Infrastructure
 <p align="center">
-  <img src="ARCH.gif" width="600" title="hover text">
+  <img src="ARCH.png" width="600" title="Project flow">
 </p>
 
 ---
