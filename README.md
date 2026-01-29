@@ -1,4 +1,4 @@
-# Manage and Deploy Kubernetes in Multi-Cloud Environment
+![ARCH](https://github.com/user-attachments/assets/479c07e9-fe07-44b3-9d81-4246a518de25)# Manage and Deploy Kubernetes in Multi-Cloud Environment
 
 This project creates a **multi-cloud Kubernetes cluster using kubeadm** by placing all nodes on the same private network using an **AWS Client VPN endpoint** to secure traffic.
 
@@ -9,7 +9,7 @@ This project creates a **multi-cloud Kubernetes cluster using kubeadm** by placi
 
 ## The Infrastructure
 <p align="center">
-  <img src="ARCH.gif" width="600">
+  <img src="ARCH.gif" width="600" title="hover text">
 </p>
 
 ---
